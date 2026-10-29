@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-28T06:03:30.743960+00:00",
+  "title": "Design System: add website",
+  "extensions": {
+    "colorMeta": {
+      "lime": {
+        "role": "primary",
+        "displayName": "Acid Lime",
+        "canonical": "#c8f53c",
+        "tonalRamp": [
+          "#021000",
+          "#162e00",
+          "#304e00",
+          "#4e7000",
+          "#6d9300",
+          "#8eb700",
+          "#b1dd03",
+          "#d6ff50"
+        ]
+      },
+      "lime-hi": {
+        "role": "primary",
+        "displayName": "Bright Lime",
+        "canonical": "#d6fb60",
+        "tonalRamp": [
+          "#050f00",
+          "#1b2d00",
+          "#354c00",
+          "#536e00",
+          "#729100",
+          "#94b500",
+          "#b7da39",
+          "#dcff66"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "#0c0e12",
+        "tonalRamp": [
+          "#090b0f",
+          "#23252a",
+          "#404247",
+          "#5f6167",
+          "#808288",
+          "#a2a5ab",
+          "#c6c9cf",
+          "#ebeef5"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Ink 2",
+        "canonical": "#2e333b",
+        "tonalRamp": [
+          "#070b12",
+          "#21252d",
+          "#3d424b",
+          "#5c626a",
+          "#7d838c",
+          "#9fa5af",
+          "#c3cad4",
+          "#e8eff9"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "canonical": "#5b626c",
+        "tonalRamp": [
+          "#070b13",
+          "#1f252e",
+          "#3c424c",
+          "#5b626c",
+          "#7c838d",
+          "#9ea6b1",
+          "#c2cad5",
+          "#e7effb"
+        ]
+      },
+      "bg": {
+        "role": "neutral",
+        "displayName": "Concrete",
+        "canonical": "#f2f3f5",
+        "tonalRamp": [
+          "#0a0b0c",
+          "#242526",
+          "#414243",
+          "#606163",
+          "#818284",
+          "#a4a5a7",
+          "#c8c9cb",
+          "#edeef0"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "canonical": "#ffffff",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "canonical": "#dde0e5",
+        "tonalRamp": [
+          "#090b0e",
+          "#232529",
+          "#404246",
+          "#5f6166",
+          "#808287",
+          "#a2a5aa",
+          "#c6c9ce",
+          "#eceff4"
+        ]
+      },
+      "line-2": {
+        "role": "neutral",
+        "displayName": "Line 2",
+        "canonical": "#c4c9d0",
+        "tonalRamp": [
+          "#080b10",
+          "#22252b",
+          "#3e4248",
+          "#5d6268",
+          "#7e8389",
+          "#a1a5ac",
+          "#c5cad1",
+          "#eaeff6"
+        ]
+      },
+      "star": {
+        "role": "tertiary",
+        "displayName": "Star",
+        "canonical": "#e2a012",
+        "tonalRamp": [
+          "#280000",
+          "#4a0d00",
+          "#6c3000",
+          "#8f5100",
+          "#b37300",
+          "#d89700",
+          "#ffbb40",
+          "#ffe16b"
+        ]
+      },
+      "night": {
+        "role": "neutral",
+        "displayName": "Night",
+        "canonical": "#0d0f12",
+        "tonalRamp": [
+          "#090b0e",
+          "#232529",
+          "#404246",
+          "#5f6165",
+          "#808287",
+          "#a2a5aa",
+          "#c6c9ce",
+          "#eceff3"
+        ]
+      },
+      "night-2": {
+        "role": "neutral",
+        "displayName": "Night 2",
+        "canonical": "#15181d",
+        "tonalRamp": [
+          "#090b10",
+          "#22252b",
+          "#3f4248",
+          "#5e6168",
+          "#7f8389",
+          "#a1a5ac",
+          "#c5c9d0",
+          "#eaeff6"
+        ]
+      },
+      "night-3": {
+        "role": "neutral",
+        "displayName": "Night 3",
+        "canonical": "#1d2128",
+        "tonalRamp": [
+          "#080b11",
+          "#21252c",
+          "#3e424a",
+          "#5d616a",
+          "#7d838b",
+          "#a0a5ae",
+          "#c4c9d3",
+          "#e9eff9"
+        ]
+      },
+      "night-line": {
+        "role": "neutral",
+        "displayName": "Night Line",
+        "canonical": "#2a2f37",
+        "tonalRamp": [
+          "#070b12",
+          "#20252d",
+          "#3d424b",
+          "#5c626b",
+          "#7d838c",
+          "#9fa5af",
+          "#c3cad4",
+          "#e8effa"
+        ]
+      },
+      "night-muted": {
+        "role": "neutral",
+        "displayName": "Night Muted",
+        "canonical": "#a3aab4",
+        "tonalRamp": [
+          "#070b12",
+          "#20252d",
+          "#3d424b",
+          "#5b626b",
+          "#7c838c",
+          "#9fa6b0",
+          "#c3cad4",
+          "#e8effa"
+        ]
+      },
+      "night-ink": {
+        "role": "neutral",
+        "displayName": "Night Ink",
+        "canonical": "#f2f3f5",
+        "tonalRamp": [
+          "#0a0b0c",
+          "#242526",
+          "#414243",
+          "#606163",
+          "#818284",
+          "#a4a5a7",
+          "#c8c9cb",
+          "#edeef0"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero lines; the footer wordmark runs 800 at wdth 125."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section and contact titles."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Card, bento, step and accordion titles."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Line under a section title, muted."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Reading text; supporting text at 17px."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Buttons, tap rows, verdict."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Martian Mono uppercase labels at the 15px floor."
+      }
+    },
+    "shadows": [
+      {
+        "name": "listing",
+        "value": "0 1px 0 rgb(12 14 18 / 0.04), 0 1.6em 3.6em -1.8em rgb(12 14 18 / 0.3)",
+        "purpose": "The drawn listing card."
+      },
+      {
+        "name": "browser",
+        "value": "0 3cqw 7cqw -3cqw rgb(12 14 18 / 0.32)",
+        "purpose": "The drawn browser in the build stage."
+      },
+      {
+        "name": "phone",
+        "value": "0 3cqw 6cqw -2cqw rgb(12 14 18 / 0.4)",
+        "purpose": "The drawn phone in the build stage."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Default for state transitions (buttons, accordion, switch, meter, chip fill)."
+      },
+      {
+        "name": "spring",
+        "value": "cubic-bezier(0.34, 1.56, 0.64, 1)",
+        "purpose": "Tick check pop."
+      },
+      {
+        "name": "masked-rise",
+        "value": "SplitText lines mask, words yPercent 110, power4.out, 0.9s, stagger 0.04",
+        "purpose": "Heading reveals on scroll."
+      },
+      {
+        "name": "build-pin",
+        "value": "ScrollTrigger pin, end +=320%, scrub 0.6",
+        "purpose": "The pinned build stage."
+      },
+      {
+        "name": "smooth-scroll",
+        "value": "Lenis lerp 0.1 on gsap.ticker, fine pointers only",
+        "purpose": "Desktop smooth scroll feeding ScrollTrigger.update."
+      },
+      {
+        "name": "vignette-play",
+        "value": "paused on a finished frame; runs on hover (fine pointer) or at 60% visibility (touch)",
+        "purpose": "Trade vignettes and the mini phone."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone-sm",
+        "value": "640px"
+      },
+      {
+        "name": "phone",
+        "value": "900px"
+      },
+      {
+        "name": "tablet",
+        "value": "1100px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Lime Button",
+      "kind": "button",
+      "refersTo": "button-lime",
+      "description": "The main action: lime fill, ink label and border.",
+      "html": "<button class=\"ds-btn ds-btn-lime\">See how it works</button>",
+      "css": ":host{--bg:#f2f3f5;--surface:#fff;--ink:#0c0e12;--ink-2:#2e333b;--muted:#5b626c;--line:#dde0e5;--line-2:#c4c9d0;--lime:#c8f53c;--lime-hi:#d6fb60;--night:#0d0f12;--night-2:#15181d;--night-3:#1d2128;--night-line:#2a2f37;--night-muted:#a3aab4;--night-ink:#f2f3f5;--ease-out:cubic-bezier(0.16,1,0.3,1)} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;height:54px;padding:0 26px;border-radius:999px;font:650 17px/1 'Mona Sans Variable', system-ui, sans-serif;font-stretch:108%;cursor:pointer;transition:transform .2s var(--ease-out),background-color .25s,color .25s} .ds-btn:active{transform:scale(.97)} .ds-btn:focus-visible{outline:3px solid var(--ink);outline-offset:3px} .ds-btn-lime{background:var(--lime);color:var(--ink);border:1.5px solid var(--ink)} .ds-btn-lime:hover{background:var(--lime-hi)}"
+    },
+    {
+      "name": "Ink Button",
+      "kind": "button",
+      "refersTo": "button-ink",
+      "description": "Header action; turns lime over night sections.",
+      "html": "<button class=\"ds-btn ds-btn-ink\">Get in touch</button>",
+      "css": ":host{--bg:#f2f3f5;--surface:#fff;--ink:#0c0e12;--ink-2:#2e333b;--muted:#5b626c;--line:#dde0e5;--line-2:#c4c9d0;--lime:#c8f53c;--lime-hi:#d6fb60;--night:#0d0f12;--night-2:#15181d;--night-3:#1d2128;--night-line:#2a2f37;--night-muted:#a3aab4;--night-ink:#f2f3f5;--ease-out:cubic-bezier(0.16,1,0.3,1)} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;height:54px;padding:0 26px;border-radius:999px;font:650 17px/1 'Mona Sans Variable', system-ui, sans-serif;font-stretch:108%;cursor:pointer;transition:transform .2s var(--ease-out),background-color .25s,color .25s} .ds-btn:active{transform:scale(.97)} .ds-btn:focus-visible{outline:3px solid var(--ink);outline-offset:3px} .ds-btn-ink{height:46px;padding:0 20px;border:0;background:var(--ink);color:var(--bg)} .ds-btn-ink:hover{background:var(--ink-2)}"
+    },
+    {
+      "name": "Line Button",
+      "kind": "button",
+      "refersTo": "button-line",
+      "description": "Secondary action; fills ink on hover.",
+      "html": "<button class=\"ds-btn ds-btn-line\">See the work</button>",
+      "css": ":host{--bg:#f2f3f5;--surface:#fff;--ink:#0c0e12;--ink-2:#2e333b;--muted:#5b626c;--line:#dde0e5;--line-2:#c4c9d0;--lime:#c8f53c;--lime-hi:#d6fb60;--night:#0d0f12;--night-2:#15181d;--night-3:#1d2128;--night-line:#2a2f37;--night-muted:#a3aab4;--night-ink:#f2f3f5;--ease-out:cubic-bezier(0.16,1,0.3,1)} .ds-btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;height:54px;padding:0 26px;border-radius:999px;font:650 17px/1 'Mona Sans Variable', system-ui, sans-serif;font-stretch:108%;cursor:pointer;transition:transform .2s var(--ease-out),background-color .25s,color .25s} .ds-btn:active{transform:scale(.97)} .ds-btn:focus-visible{outline:3px solid var(--ink);outline-offset:3px} .ds-btn-line{background:transparent;color:var(--ink);border:1.5px solid var(--ink)} .ds-btn-line:hover{background:var(--ink);color:var(--bg)}"
+    },
+    {
+      "name": "Add Website Chip",
+      "kind": "chip",
+      "refersTo": "listing-card",
+      "description": "The dashed listing chip that fills lime when pressed.",
+      "html": "<button class=\"ds-chip\"><span class=\"ds-chip-fill\"></span><span class=\"ds-chip-label\">+ Add website</span></button>",
+      "css": ":host{--bg:#f2f3f5;--surface:#fff;--ink:#0c0e12;--ink-2:#2e333b;--muted:#5b626c;--line:#dde0e5;--line-2:#c4c9d0;--lime:#c8f53c;--lime-hi:#d6fb60;--night:#0d0f12;--night-2:#15181d;--night-3:#1d2128;--night-line:#2a2f37;--night-muted:#a3aab4;--night-ink:#f2f3f5;--ease-out:cubic-bezier(0.16,1,0.3,1)} .ds-chip{position:relative;overflow:hidden;display:inline-flex;align-items:center;height:42px;padding:0 15px;border-radius:999px;border:1.5px dashed var(--ink-2);background:#fff;color:var(--ink);font:560 16px/1 'Mona Sans Variable', system-ui, sans-serif;cursor:pointer} .ds-chip-fill{position:absolute;inset:0;background:var(--lime);transform:scaleX(0);transform-origin:left;transition:transform .55s var(--ease-out)} .ds-chip-label{position:relative} .ds-chip:hover,.ds-chip:focus-visible{border-style:solid;border-color:var(--ink);outline:none} .ds-chip:hover .ds-chip-fill,.ds-chip:focus-visible .ds-chip-fill{transform:scaleX(1)}"
+    },
+    {
+      "name": "Trade Vignette Card",
+      "kind": "card",
+      "refersTo": "world-card",
+      "description": "Night card: CSS picture, mono trade label, wide title, one line.",
+      "html": "<article class=\"ds-world\"><div class=\"ds-world-art\"></div><div class=\"ds-world-text\"><p class=\"ds-world-trade\">Tailor</p><h3>The fitting</h3><p>A red stitch sews itself under the headline.</p></div></article>",
+      "css": ":host{--bg:#f2f3f5;--surface:#fff;--ink:#0c0e12;--ink-2:#2e333b;--muted:#5b626c;--line:#dde0e5;--line-2:#c4c9d0;--lime:#c8f53c;--lime-hi:#d6fb60;--night:#0d0f12;--night-2:#15181d;--night-3:#1d2128;--night-line:#2a2f37;--night-muted:#a3aab4;--night-ink:#f2f3f5;--ease-out:cubic-bezier(0.16,1,0.3,1)} .ds-world{max-width:380px;border:1px solid var(--night-line);border-radius:24px;overflow:hidden;background:var(--night-2);color:var(--night-ink);transition:border-color .3s} .ds-world:hover{border-color:#454c57} .ds-world-art{aspect-ratio:16/10;background:#0a0c0f;border-bottom:1px solid var(--night-line)} .ds-world-text{padding:22px 24px 26px} .ds-world-trade{margin:0;font:500 15px/1.2 'Martian Mono Variable', ui-monospace, monospace;text-transform:uppercase;letter-spacing:.03em;color:var(--night-muted)} .ds-world h3{margin:12px 0 8px;font:700 30px/1.05 'Mona Sans Variable', system-ui, sans-serif;font-stretch:114%;letter-spacing:-.03em} .ds-world-text p:last-child{margin:0;font:400 17px/1.5 'Mona Sans Variable', system-ui, sans-serif;color:var(--night-muted)}"
+    },
+    {
+      "name": "Tick",
+      "kind": "custom",
+      "refersTo": "tick",
+      "description": "Toggling row with a box that fills lime; second tap clears it.",
+      "html": "<button class=\"ds-tick\" aria-pressed=\"true\"><span class=\"ds-tick-box\">&#10003;</span>Your customers leave great reviews</button>",
+      "css": ":host{--bg:#f2f3f5;--surface:#fff;--ink:#0c0e12;--ink-2:#2e333b;--muted:#5b626c;--line:#dde0e5;--line-2:#c4c9d0;--lime:#c8f53c;--lime-hi:#d6fb60;--night:#0d0f12;--night-2:#15181d;--night-3:#1d2128;--night-line:#2a2f37;--night-muted:#a3aab4;--night-ink:#f2f3f5;--ease-out:cubic-bezier(0.16,1,0.3,1)} .ds-tick{width:100%;max-width:520px;display:flex;align-items:center;gap:16px;padding:18px 20px;border:1px solid var(--ink);border-radius:18px;background:var(--surface);color:var(--ink);font:540 19px/1.35 'Mona Sans Variable', system-ui, sans-serif;text-align:left;cursor:pointer;transition:border-color .25s,background-color .25s} .ds-tick-box{width:34px;height:34px;flex:none;display:grid;place-items:center;border:2px solid var(--ink);border-radius:10px;background:var(--lime);font-weight:800} .ds-tick:focus-visible{outline:3px solid var(--ink);outline-offset:3px} .ds-tick[aria-pressed=false]{border-color:var(--line);background:var(--bg)} .ds-tick[aria-pressed=false] .ds-tick-box{background:transparent;border-color:var(--ink-2);color:transparent}"
+    },
+    {
+      "name": "Door Sign",
+      "kind": "custom",
+      "refersTo": "bento-cell",
+      "description": "Open/closed as a bordered display word plus the time; never a dot.",
+      "html": "<div class=\"ds-sign-row\"><span class=\"ds-sign\">Open</span><span class=\"ds-sign-time\">until 6 pm</span></div>",
+      "css": ":host{--bg:#f2f3f5;--surface:#fff;--ink:#0c0e12;--ink-2:#2e333b;--muted:#5b626c;--line:#dde0e5;--line-2:#c4c9d0;--lime:#c8f53c;--lime-hi:#d6fb60;--night:#0d0f12;--night-2:#15181d;--night-3:#1d2128;--night-line:#2a2f37;--night-muted:#a3aab4;--night-ink:#f2f3f5;--ease-out:cubic-bezier(0.16,1,0.3,1)} .ds-sign-row{display:flex;align-items:center;gap:16px;color:var(--ink)} .ds-sign{padding:8px 18px 11px;border:3px solid var(--ink);border-radius:10px;font:720 40px/1 'Mona Sans Variable', system-ui, sans-serif;font-stretch:114%;letter-spacing:-.03em} .ds-sign-time{font:560 21px/1 'Mona Sans Variable', system-ui, sans-serif}"
+    },
+    {
+      "name": "Contact Row",
+      "kind": "custom",
+      "refersTo": "contact-card",
+      "description": "Night row: icon well, mono label, value or dashed Coming soon pill.",
+      "html": "<div class=\"ds-contact\"><div class=\"ds-crow\"><span class=\"ds-crow-icon\">@</span><span class=\"ds-crow-label\">Email</span><span class=\"ds-soon\">Coming soon</span></div></div>",
+      "css": ":host{--bg:#f2f3f5;--surface:#fff;--ink:#0c0e12;--ink-2:#2e333b;--muted:#5b626c;--line:#dde0e5;--line-2:#c4c9d0;--lime:#c8f53c;--lime-hi:#d6fb60;--night:#0d0f12;--night-2:#15181d;--night-3:#1d2128;--night-line:#2a2f37;--night-muted:#a3aab4;--night-ink:#f2f3f5;--ease-out:cubic-bezier(0.16,1,0.3,1)} .ds-contact{max-width:520px;padding:6px 28px;border:1px solid var(--night-line);border-radius:28px;background:var(--night-2);color:var(--night-ink)} .ds-crow{display:grid;grid-template-columns:46px 1fr auto;align-items:center;gap:16px;padding:20px 0} .ds-crow-icon{width:46px;height:46px;display:grid;place-items:center;border-radius:13px;background:var(--night-3);color:var(--lime);font:600 18px 'Mona Sans Variable', system-ui, sans-serif} .ds-crow-label{font:500 15px/1.2 'Martian Mono Variable', ui-monospace, monospace;text-transform:uppercase;letter-spacing:.04em;color:var(--night-muted)} .ds-soon{padding:8px 16px;border:1.5px dashed #3c434e;border-radius:999px;font:520 17px/1.2 'Mona Sans Variable', system-ui, sans-serif;color:var(--night-muted)}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Add Website",
+    "overview": "The page is the moment a map listing shows an empty, dashed \"Add website\" button, and what happens after someone presses it. Cool concrete white and near-black ink carry everything; one acid lime is the press, the fill, the \"yes\". Mona Sans stretched wide gives the headings a confident, built-not-written voice; the same family at normal width reads quietly; Martian Mono labels things the way a listing or a code folder would.\n\nIt is a light page with two night sections (the work, then contact and footer), and the header turns dark with them. The signature is the pinned build: a listing becomes a browser window becomes a phone becomes a live address, all drawn in CSS and scaled as one picture. Everything else is a small live demo of a real promise, not a picture of it.",
+    "keyCharacteristics": [
+      "Concrete white ground, white cards, two night bands; lime is a fill only.",
+      "Wide display Mona Sans (wdth 106–125%), normal-width body, mono labels at 15px.",
+      "Pills for actions, 18–28px rounded cards, hairline borders, almost no shadow.",
+      "One pinned, scrubbed story (Find, Build, Show, Launch); every other motion is small and earned.",
+      "No business names, no screenshots: the work is nine tiny CSS vignettes of ideas."
+    ],
+    "rules": [
+      {
+        "name": "The Lime Is A Fill Rule",
+        "body": "Lime is never text on a light ground. It fills a shape outlined or labelled in ink. Anything pressed, ticked, built or live turns lime; nothing decorative does.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Nights Rule",
+        "body": "Night grounds belong to the work and to contact plus footer. New sections are concrete or surface.",
+        "section": "colors"
+      },
+      {
+        "name": "The 15px Floor Rule",
+        "body": "No page text is smaller than 15px; mono labels sit exactly at the floor. Only text inside the scaled build picture is exempt, because it is drawn, not read.",
+        "section": "typography"
+      },
+      {
+        "name": "The Masked Rise Rule",
+        "body": "Headings arrive word by word out of SplitText line masks (yPercent 110, power4.out, 0.04–0.06s stagger). Masks carry descender padding. No blur reveals.",
+        "section": "typography"
+      },
+      {
+        "name": "The Desk Objects Rule",
+        "body": "Only the drawn listing, browser and phone cast shadows. Cards, cells and ticks stay flat. Nothing glows. The header's 14px backdrop blur is the only frost.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** use lime only as a fill outlined or labelled in ink.",
+      "**Do** draw the work as small CSS pictures of ideas, paused until hovered or on screen.",
+      "**Do** size anything inside the build stage in container units so it scales as one picture.",
+      "**Do** run motion through GSAP and ScrollTrigger with Lenis on the ticker (fine pointers only), and refresh after fonts load.",
+      "**Do** make every selectable control toggle off on a second tap, and give the pin its scroll-up/down hint."
+    ],
+    "donts": [
+      "**Don't** put section kicker labels above headings or numbers on the vignette cards; both were removed on purpose.",
+      "**Don't** set page text under 15px.",
+      "**Don't** add glows, halos or shadows on flat cards.",
+      "**Don't** show business names, screenshots of pitch sites, personal names, prices or mentions of AI tools.",
+      "**Don't** use lime as text on light grounds or as a section ground."
+    ]
+  }
+}
