@@ -10,8 +10,8 @@ export const studio = {
 // Fill these in when the business email and number are ready. Empty values show "Coming soon"
 // and do nothing; filled values turn into working mailto:, tel: and sms: links automatically.
 export const contact = {
-  email: '',
-  phone: '', // e.g. '(951) 555-0123'
+  email: 'vionixwebstudio@gmail.com',
+  phone: '(951) 283-1054',
 }
 
 // The four steps of the pinned build, in scroll order.
